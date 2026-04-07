@@ -47,13 +47,13 @@ Tecnologías Utilizadas
 Evidencia de ejecución
 
 ### Código en Bloc de notas
-![Código](codigo.png)
+![Código](codigo.PNG)
 
 ### Compilación del programa
-![Compilación](compilacion.png)
+![Compilación](compilacion.PNG)
 
 ### Ejecución del programa
-![Ejecución](ejecucion.png)
+![Ejecución](ejecucion.PNG)
 
 ### Resultado final
-![Resultado](resultado.png)
+![Resultado](resultado.PNG)
